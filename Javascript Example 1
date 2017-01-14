@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>What Can JavaScript Do?</h1>
+<h1>This is the first sentence. Once the button is clicked, this sentence will change.</h1>
 
 <p id="demo">JavaScript can change HTML content.</p>
 
