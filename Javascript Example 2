@@ -6,7 +6,7 @@
 
 <p>This is a second example of Javascript code using variables.</p>
 
-<p>The variables a, b, and c are assigned the values 10, 11, and 21.</p>
+<p>The variables a, b, and c are assigned the values 10, 11, and -1.</p>
 
 <p>Then the value of c is displayed in the paragraph below:</p>
 
@@ -16,7 +16,7 @@
 var a, b, c;
 a = 10;
 b = 11;
-c = a + b;
+c = a - b;
 document.getElementById("demo").innerHTML = c;
 </script>
 
