@@ -9,7 +9,7 @@
 <p id="demo"></p>
 
 <script>
-document.getElementById("demo").innerHTML = 'Bucky Buckerson';
+document.getElementById("demo").innerHTML = 'Bucky' + ' ' + 'Buckerson';
 </script>
 
 </body>
