@@ -9,7 +9,7 @@
 <p id="demo"></p>
 
 <script>
-document.getElementById("demo").innerHTML = 'Bucky' + ' ' + 'Buckerson';
+document.getElementById("demo").innerHTML = 'Bucky' + ' ' + 'Buckerson owned two bucks and gave them 2 bucks to fix their buck teeth.;
 </script>
 
 </body>
