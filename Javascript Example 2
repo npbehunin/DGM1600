@@ -13,11 +13,11 @@
 <p id="demo"></p>
 
 <script>
-var x, y, z;
-x = 5;
-y = 6;
-z = x + y;
-document.getElementById("demo").innerHTML = z;
+var a, b, c;
+a = 5;
+b = 6;
+c = a + b;
+document.getElementById("demo").innerHTML = c;
 </script>
 
 </body>
